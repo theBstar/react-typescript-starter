@@ -8,7 +8,7 @@ function App(): JSX.Element {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This repo is setup with typescript, pretier and eslint to get you
+          This repo is setup with typescript, prettier and eslint to get you
           going. Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
