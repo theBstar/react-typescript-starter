@@ -10,6 +10,7 @@ function App() {
         <p>
           This repo is setup with typescript, pretier and eslint to get you
           going. Edit <code>src/App.tsx</code> and save to reload.
+          Updating to see the hook in work
         </p>
         <a
           className="App-link"
